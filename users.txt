@@ -1,0 +1,72 @@
+jay:
+hi
+Hey, let's start with your name. Please introduce yourself
+my name is Jay
+LIKE-Welcome back, jay! Glad to know you are interested in talking about healthy foods! Shoot me your questions..
+how are you?
+I am fine!
+what are some popular diets?
+high protein, low carbohydrate diets, such as the atkins diet, are popular and controversial.
+what are sources of protein?
+fish, chicken and meat are excellent protein sources, and soy protein can sometimes be helpful for people who are willing to try it.
+which diet help in weight loss?
+unless the dieter has type o blood, the diet doesn't help with weight loss.
+what diet result in weight loss?
+high protein, low carbohydrate diets can result rapid weight loss.
+okay
+Please feel free to ask me any further questions you might have! If you want to exit, type Bye!
+thank you
+bye
+some different types of diet are low fat diet, low glycemic index diet, low protein diet, low sodium diet, low sulfur diet, some common macrobiotic ingredients macrobiotic diet:
+okay
+Please feel free to ask me any further questions you might have! If you want to exit, type Bye!
+what diets are popular
+high protein, low carbohydrate diets, such as the atkins diet, are popular and controversial.
+what are sources of protein
+fish, chicken and meat are excellent protein sources, and soy protein can sometimes be helpful for people who are willing to try it.
+thank you
+bye
+
+
+jason:
+hello
+Hey, let's start with your name. Please introduce yourself
+Jason
+LIKE-Welcome back, jason! Glad to know you are interested in talking about healthy foods! Shoot me your questions..
+i am diabetic what i should do?
+for diabetic person, avoid all artificial sweeteners found in diet drinks and some diabetic foods as these are toxic to the liver and can cause hypoglycaemia and fatigue.
+what are some good eating habits?
+building simple habits for healthy weight loss lasting, healthy weight loss demands that you transform your eating and exercise habits.
+how to increase body weight?
+the reason for weight increase is not what or how much you eat that causes weight gain but rather when and in what combinations the food is eaten.
+which diet help in building muscles?
+high protein diet:
+okay
+Please feel free to ask me any further questions you might have! If you want to exit, type Bye!
+bye
+nick:
+hi
+Hey, let's start with your name. Please introduce yourself
+I am Nick. I am overweight
+LIKE-Welcome back, nick! Glad to know you are interested in talking about healthy foods! Shoot me your questions..
+what diet is for a person with bmi of 30 or higher?
+the very low calorie diet is prescribed by a physician on a case to case basis to promote rapid weight loss in patients with body mass index bmi of 30 or higher.
+what is body mass index?
+the body mass index bmi is a ratio of weight in kilograms to height in meters squared.
+what is low calories diet?
+some different types of diet are low fat diet, low glycemic index diet, low protein diet, low sodium diet, low sulfur diet, some common macrobiotic ingredients macrobiotic diet: a diet in which processed food is avoided.
+bye
+joanna:
+hi
+Hey, let's start with your name. Please introduce yourself
+Joanna
+Nice to meet you, joanna! Do you want to know more about healthy diet plans?
+what diet has more carbs
+the zone diet:
+what diet has less gluten?
+if you eat less than five pounds of grapes, you get even less protein.
+how to increase weight?
+the reason for weight increase is not what or how much you eat that causes weight gain but rather when and in what combinations the food is eaten.
+bye
+
+
